@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">ProjetoAgendador</string>
+    <string name="cpf">CPF</string>
+    <string name="rua">Rua</string>
+    <string name="num">Número</string>
+    <string name="fem">Feminino</string>
+    <string name="masc">Masculino</string>
+    <string name="mail">E-mail</string>
+    <string name="nome">Nome</string>
+    <string name="senha">Senha</string>
+    <string name="lista">Listagem de Agendamentos</string>
+    <string name="cancel">CANCELAR</string>
+    <string name="time1">08:00-09:00</string>
+    <string name="time2">09:00-10:00</string>
+    <string name="time3">10:00-11:00</string>
+    <string name="time4">11:00-12:00</string>
+    <string name="time5">14:00-15:00</string>
+    <string name="time6">15:00-16:00</string>
+    <string name="time7">16:00-17:00</string>
+    <string name="time8">17:00-18:00</string>
+    <string name="falhou">Ocorreu uma falha!</string>
+    <string name="cadastro">CADASTRO</string>
+    <string name="cadastrar">CADASTRO DE USUÁRIO</string>
+    <string name="repSenha">Repita a senha</string>
+    <string name="tipoAdmin">Administrador</string>
+    <string name="erroLogin">Usuário ou senha inválidos! Tente novamente!</string>
+    <string name="emailVazio">Preencha o campo de e-mail!</string>
+    <string name="alertaEmail">Em instantes você receberá um e-mail!</string>
+    <string name="profissional">FULANO de Tal, Massoteurapeuta certificado, atuando na área a mais de 10 anos.</string>
+    <string name="txtcadastrar">CADASTRAR</string>
+    <string name="btncadastrar">CADASTRAR</string>
+    <string name="loginSucesso">Login efetuado com sucesso!</string>
+    <string name="cadastroErro">Erro ao gravar o usuário!</string>
+    <string name="tipoAtendente">Atendente</string>
+    <string name="selecioneHora">Selecione o Horário</string>
+    <string name="btnagendamento">Agendamento</string>
+    <string name="agendarhorario">Confirmar seu agendamento</string>
+    <string name="cadastroSucesso">Usuário cadastrado com sucesso!</string>
+    <string name="senhaDiferentes">As senhas não se correspondem!</string>
+    <string name="selecioneHorario">Favor selecionar um horário!</string>
+    <string name="alertaFalhaEmail">Falha ao enviar e-mail!</string>
+    <string name="agendamentoSucesso">Agendamento salvo com sucesso!</string>
+    <string name="atendimentoHorario">Nosso horário de atendimento é das 08:00 às 18:00.</string>
+    <string name="camposObrigatorios">Preencha os campos de E-mail e senha</string>
+
+    <string name="shiatsu">Shiatsu
+De origem chinesa, tem a proposta de equilibrar os pontos dos meridianos, que são os canais de energia que percorrem o corpo.</string>
+    <string name="Ayurvédica">Ayurvédica
+Estimula os músculos e circulação, liberando as toxinas presas neles e nos tecidos.</string>
+    <string name="Destoxi">Destoxi Drenante
+Tem como objetivo desintoxicar e drenar o organismo, reduzindo inchaços e equilibrando as funções metabólicas. </string>
+
+</resources>

@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "997931307906",
+    "firebase_url": "https://projeto-android-80a23.firebaseio.com",
+    "project_id": "projeto-android-80a23",
+    "storage_bucket": "projeto-android-80a23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997931307906:android:e1a6cf38c930a38d",
+        "android_client_info": {
+          "package_name": "br.com.knaak.projetoagendador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997931307906-3dpm3slhqtehcr4fsjnpmj1g0ku8a2a0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.knaak.projetoagendador",
+            "certificate_hash": "b442073f0ebe8b201498ac57a295869cb289f97a"
+          }
+        },
+        {
+          "client_id": "997931307906-9jvhnvgln4pu7oj8miaaa79ge8paqev4.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "997931307906-9jvhnvgln4pu7oj8miaaa79ge8paqev4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChd-Z4sLWXjUhfVfYM1l-LV4C3i8Oqs7E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997931307906-9jvhnvgln4pu7oj8miaaa79ge8paqev4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997931307906:android:c71cbe13615a68b6",
+        "android_client_info": {
+          "package_name": "br.com.knaak.projetoandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997931307906-i7b3duv2k5dcv51nmetj8jqq2eln93rq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.knaak.projetoandroid",
+            "certificate_hash": "b442073f0ebe8b201498ac57a295869cb289f97a"
+          }
+        },
+        {
+          "client_id": "997931307906-9jvhnvgln4pu7oj8miaaa79ge8paqev4.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "997931307906-9jvhnvgln4pu7oj8miaaa79ge8paqev4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChd-Z4sLWXjUhfVfYM1l-LV4C3i8Oqs7E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997931307906-9jvhnvgln4pu7oj8miaaa79ge8paqev4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

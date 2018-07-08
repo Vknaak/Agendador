@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical"
+    tools:context=".Activity.MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="16dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <com.beardedhen.androidbootstrap.BootstrapCircleThumbnail
+                android:id="@+id/ImageProfissional"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:src="@drawable/teste"
+                app:bootstrapBrand="danger"
+                app:hasBorder="true" />
+
+            <com.beardedhen.androidbootstrap.BootstrapEditText
+                android:id="@+id/edtEmail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="E-MAIL"
+                android:layout_marginTop="10dp"
+                android:inputType="textEmailAddress"
+                app:bootstrapBrand="info"
+                app:bootstrapSize="xl"
+                app:roundedCorners="true" />
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                app:passwordToggleEnabled="true"
+                app:passwordToggleTint="@color/colorPrimary">
+
+
+                <com.beardedhen.androidbootstrap.BootstrapEditText
+                    android:id="@+id/edtSenha"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:hint="SENHA"
+                    android:inputType="textPassword"
+                    app:bootstrapBrand="info"
+                    app:bootstrapSize="xl"
+                    app:roundedCorners="true" />
+
+            </android.support.design.widget.TextInputLayout>
+
+            <com.beardedhen.androidbootstrap.BootstrapButton
+                android:id="@+id/btnLogin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="LOGIN"
+                app:bootstrapBrand="success"
+                app:bootstrapSize="xl"
+                app:buttonMode="regular"
+                app:roundedCorners="true"
+                app:showOutline="false" />
+
+            <TextView
+                android:id="@+id/txtRecuperarSenha"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="Esqueceu senha? Clique aqui!"
+                android:textColor="@color/colorWhite" />
+
+            <TextView
+                android:id="@+id/txtAbreCadastro"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="Não tem cadastro? Clique Aqui!"
+                android:textColor="@color/colorWhite"
+                android:textSize="20dp" />
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
